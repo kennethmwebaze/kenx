@@ -1,0 +1,7 @@
+R is a powerful language used widely for data analysis and statistical computing. It was developed in early 90s. 
+Since then, endless efforts have been made to improve R’s user interface.
+Inclusion of powerful packages in R has made it more and more powerful with time. 
+Packages such as dplyr, tidyr, readr, data.table, SparkR, ggplot2 have made data manipulation, visualization and computation much faster in R.
+But, what about Machine Learning ?
+R has enough provisions to implement machine learning algorithms in a fast and simple manner.
+By the end of this Recess, one will have a good exposure to building predictive models using machine learning on own.
